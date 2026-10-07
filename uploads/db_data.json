@@ -1,0 +1,1079 @@
+{
+  "campaigns": [
+    {
+      "id": "camp-fatemiye-1403",
+      "title": "پویش نذر فاطمیه و توزیع ارزاق نیازمندان",
+      "description": "به مناسبت ایام سوگواری شهادت صدیقه کبری حضرت فاطمه زهرا (س)، پویش نذر بسته‌های معیشتی و اطعام عزاداران اهل بیت (ع) در سراسر کشور.",
+      "image_url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1200&q=80",
+      "total_shares": 1000,
+      "share_price": 100000,
+      "start_date": "۱۴۰۳/۰۸/۰۱",
+      "end_date": "۱۴۰۳/۰۹/۱۵",
+      "status": "active",
+      "event_location": "مشهد مقدس و حاشیه شهر",
+      "event_date": "ایام فاطمیه دوم",
+      "event_time": "همزمان با نماز مغرب و عشاء",
+      "channel_link": "https://eitaa.com",
+      "social_link": "https://ble.ir",
+      "contact_phone": "۰۹۱۹۸۷۶۵۴۳۲",
+      "additional_notes": "شامل برنج، روغن، حبوبات و گوشت نذری برای خانوارهای کم‌بضاعت",
+      "created_at": "2026-09-27T18:13:11.829Z",
+      "updated_at": "2026-10-07T22:41:11.027Z"
+    },
+    {
+      "id": "camp-1791397701364",
+      "title": "پویش نذر آب مناطق محروم",
+      "description": "پویش آبرسانی به روستاهای مناطق محروم و توزیع مخازن آب آشامیدنی",
+      "image_url": "/uploads/campaigns/camp_1791398014378_n8m3po.png",
+      "total_shares": 500,
+      "share_price": 100000,
+      "start_date": "",
+      "end_date": "",
+      "status": "pending",
+      "event_location": "",
+      "event_date": "",
+      "event_time": "",
+      "channel_link": "",
+      "social_link": "",
+      "contact_phone": "",
+      "additional_notes": "",
+      "created_at": "2026-10-07T18:28:21.364Z",
+      "updated_at": "2026-10-07T22:34:59.343Z"
+    },
+    {
+      "id": "camp-ghadir-1403",
+      "title": "پویش بزرگ اطعام عید سعید غدیر خم",
+      "description": "همزمان با فرارسیدن عید بزرگ امامت و ولایت، عید سعید غدیر خم، با مشارکت در این پویش معنوی سهمی در طبخ و توزیع اطعام میان نیازمندان و برپایی ایستگاه‌های صلواتی داشته باشیم. پیامبر اکرم (ص) فرمودند: هرکس مؤمنی را در روز غدیر اطعام کند، مانند کسی است که تمام پیامبران و صدیقان را اطعام کرده است.",
+      "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
+      "total_shares": 2000,
+      "share_price": 50000,
+      "start_date": "۱۴۰۳/۰۳/۲۰",
+      "end_date": "۱۴۰۳/۰۴/۰۵",
+      "status": "inactive",
+      "event_location": "تهران، میدان امام حسین (ع) و پایگاه‌های توزیع منتخب",
+      "event_date": "عید سعید غدیر خم",
+      "event_time": "از ساعت ۱۰:۰۰ صبح الی اذان مغرب",
+      "channel_link": "https://eitaa.com",
+      "social_link": "https://ble.ir",
+      "contact_phone": "۰۹۱۰۱۲۳۴۵۶۷",
+      "additional_notes": "طبخ با رعایت کامل اصول بهداشتی و توزیع غذای گرم به همراه نان گرم در مناطق محروم و سفره‌های عمومی غدیر",
+      "created_at": "2026-10-02T18:13:11.829Z",
+      "updated_at": "2026-10-07T22:41:11.027Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-1791411819985",
+      "name": "ییب",
+      "phone": "09114995930",
+      "created_at": "2026-10-07T22:23:39.985Z",
+      "payment_status": "successful",
+      "is_anonymous": false,
+      "total_amount": 100000,
+      "payments_count": 1,
+      "last_activity": "2026-10-07T22:23:39.985Z"
+    },
+    {
+      "id": "usr-1791397666850",
+      "name": "تست شکست پیامک",
+      "phone": "09121234567",
+      "created_at": "2026-10-07T18:27:46.850Z",
+      "payment_status": "successful",
+      "is_anonymous": false,
+      "total_amount": 50000,
+      "payments_count": 1,
+      "last_activity": "2026-10-07T18:27:46.850Z"
+    },
+    {
+      "id": "usr-1791397631835",
+      "name": "بهرام افشاری",
+      "phone": "09123334455",
+      "created_at": "2026-10-07T18:27:11.835Z",
+      "payment_status": "successful",
+      "is_anonymous": false,
+      "total_amount": 150000,
+      "payments_count": 1,
+      "last_activity": "2026-10-07T18:27:11.835Z"
+    },
+    {
+      "id": "usr-1",
+      "name": "محمد صادقی",
+      "phone": "09121112233",
+      "created_at": "2026-10-03T18:13:11.829Z",
+      "payment_status": "successful",
+      "is_anonymous": false,
+      "total_amount": 200000,
+      "payments_count": 1,
+      "last_activity": "2026-10-05T18:13:11.829Z"
+    },
+    {
+      "id": "usr-2",
+      "name": "امید احمدی",
+      "phone": "09198765432",
+      "created_at": "2026-10-04T18:13:11.829Z",
+      "payment_status": "successful",
+      "is_anonymous": true,
+      "total_amount": 500000,
+      "payments_count": 1,
+      "last_activity": "2026-10-06T18:13:11.829Z"
+    },
+    {
+      "id": "usr-3",
+      "name": "فاطمه حسینی",
+      "phone": "09351234567",
+      "created_at": "2026-10-05T18:13:11.829Z",
+      "payment_status": "successful",
+      "is_anonymous": false,
+      "total_amount": 100000,
+      "payments_count": 1,
+      "last_activity": "2026-10-07T13:13:11.829Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-1791411816254",
+      "campaign_id": "camp-1791397701364",
+      "payer_name": "ییب",
+      "phone": "09114995930",
+      "shares": 1,
+      "amount": 100000,
+      "tracking_code": "POY-248999",
+      "description": "",
+      "is_anonymous": false,
+      "is_approved": true,
+      "status": "successful",
+      "gateway": "test_gateway",
+      "transaction_id": "REF-96387491",
+      "authority_token": "AUTH_1791411816254_7226",
+      "sms_sent": true,
+      "sms_status": "sent",
+      "sms_error": null,
+      "verified_at": "2026-10-07T22:23:39.985Z",
+      "paid_at": "2026-10-07T22:23:39.985Z",
+      "created_at": "2026-10-07T22:23:36.254Z",
+      "updated_at": "2026-10-07T22:23:36.254Z",
+      "user_id": "usr-1791411819985"
+    },
+    {
+      "id": "pay-1791397660792",
+      "campaign_id": "camp-ghadir-1403",
+      "payer_name": "تست شکست پیامک",
+      "phone": "09121234567",
+      "shares": 1,
+      "amount": 50000,
+      "tracking_code": "POY-673948",
+      "description": "",
+      "is_anonymous": false,
+      "is_approved": true,
+      "status": "successful",
+      "gateway": "test_gateway",
+      "transaction_id": "TXN-FAIL-SMS-1",
+      "authority_token": "AUTH_1791397660792_1852",
+      "sms_sent": true,
+      "sms_status": "sent",
+      "sms_error": null,
+      "verified_at": "2026-10-07T18:27:46.850Z",
+      "paid_at": "2026-10-07T18:27:46.850Z",
+      "created_at": "2026-10-07T18:27:40.792Z",
+      "updated_at": "2026-10-07T18:27:40.792Z",
+      "user_id": "usr-1791397666850"
+    },
+    {
+      "id": "pay-1791397628070",
+      "campaign_id": "camp-ghadir-1403",
+      "payer_name": "بهرام افشاری",
+      "phone": "09123334455",
+      "shares": 3,
+      "amount": 150000,
+      "tracking_code": "POY-378383",
+      "description": "نذر سلامتی",
+      "is_anonymous": false,
+      "is_approved": true,
+      "status": "successful",
+      "gateway": "test_gateway",
+      "transaction_id": "TXN-55443322",
+      "authority_token": "AUTH_1791397628070_7494",
+      "sms_sent": true,
+      "sms_status": "sent",
+      "sms_error": null,
+      "verified_at": "2026-10-07T18:27:11.835Z",
+      "paid_at": "2026-10-07T18:27:11.835Z",
+      "created_at": "2026-10-07T18:27:08.070Z",
+      "updated_at": "2026-10-07T18:27:08.070Z",
+      "user_id": "usr-1791397631835"
+    },
+    {
+      "id": "pay-seed-1",
+      "campaign_id": "camp-ghadir-1403",
+      "user_id": "usr-1",
+      "payer_name": "محمد صادقی",
+      "phone": "09121112233",
+      "shares": 4,
+      "amount": 200000,
+      "tracking_code": "POY-782194",
+      "description": "به نیت فرج آقا امام زمان (عج)",
+      "is_anonymous": false,
+      "is_approved": true,
+      "status": "successful",
+      "gateway": "test_gateway",
+      "transaction_id": "TXN-98432104",
+      "authority_token": "AUTH_1730000001",
+      "sms_sent": true,
+      "sms_status": "sent",
+      "sms_error": null,
+      "verified_at": "2026-10-05T18:13:11.829Z",
+      "paid_at": "2026-10-05T18:13:11.829Z",
+      "created_at": "2026-10-05T18:13:11.829Z",
+      "updated_at": "2026-10-07T18:13:11.829Z"
+    },
+    {
+      "id": "pay-seed-2",
+      "campaign_id": "camp-ghadir-1403",
+      "user_id": "usr-2",
+      "payer_name": "امید احمدی",
+      "phone": "09198765432",
+      "shares": 10,
+      "amount": 500000,
+      "tracking_code": "POY-561234",
+      "description": "شادی روح والدین",
+      "is_anonymous": true,
+      "is_approved": true,
+      "status": "successful",
+      "gateway": "test_gateway",
+      "transaction_id": "TXN-45123987",
+      "authority_token": "AUTH_1730000002",
+      "sms_sent": true,
+      "sms_status": "sent",
+      "sms_error": null,
+      "verified_at": "2026-10-06T18:13:11.829Z",
+      "paid_at": "2026-10-06T18:13:11.829Z",
+      "created_at": "2026-10-06T18:13:11.829Z",
+      "updated_at": "2026-10-07T18:13:11.829Z"
+    },
+    {
+      "id": "pay-seed-3",
+      "campaign_id": "camp-ghadir-1403",
+      "user_id": "usr-3",
+      "payer_name": "فاطمه حسینی",
+      "phone": "09351234567",
+      "shares": 2,
+      "amount": 100000,
+      "tracking_code": "POY-334190",
+      "description": "سلامتی بیماران",
+      "is_anonymous": false,
+      "is_approved": true,
+      "status": "successful",
+      "gateway": "test_gateway",
+      "transaction_id": "TXN-87612390",
+      "authority_token": "AUTH_1730000003",
+      "sms_sent": true,
+      "sms_status": "sent",
+      "sms_error": null,
+      "verified_at": "2026-10-07T13:13:11.829Z",
+      "paid_at": "2026-10-07T13:13:11.829Z",
+      "created_at": "2026-10-07T13:13:11.829Z",
+      "updated_at": "2026-10-07T18:13:11.829Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1791412871027",
+      "title": "تغییر وضعیت پویش پویش بزرگ اطعام عید سعید غدیر خم",
+      "description": "وضعیت پویش از «inactive» به «active» تغییر یافت.",
+      "type": "campaign_status",
+      "category": "admin",
+      "is_read": false,
+      "reversible": true,
+      "undone": false,
+      "undo_data": {
+        "type": "campaign_status",
+        "campaign_id": "camp-fatemiye-1403",
+        "prev_status": "inactive",
+        "new_status": "active"
+      },
+      "created_at": "2026-10-07T22:41:11.027Z"
+    },
+    {
+      "id": "notif-1791412865763",
+      "title": "تغییر وضعیت پویش پویش نذر فاطمیه و توزیع ارزاق نیازمندان",
+      "description": "وضعیت پویش از «completed» به «active» تغییر یافت.",
+      "type": "campaign_status",
+      "category": "admin",
+      "is_read": false,
+      "reversible": true,
+      "undone": false,
+      "undo_data": {
+        "type": "campaign_status",
+        "campaign_id": "camp-ghadir-1403",
+        "prev_status": "completed",
+        "new_status": "active"
+      },
+      "created_at": "2026-10-07T22:41:05.763Z"
+    },
+    {
+      "id": "notif-1791412499343",
+      "title": "تغییر وضعیت پویش پویش نذر آب مناطق محروم",
+      "description": "وضعیت پویش از «active» به «pending» تغییر یافت.",
+      "type": "campaign_status",
+      "category": "admin",
+      "is_read": false,
+      "reversible": true,
+      "undone": false,
+      "undo_data": {
+        "type": "campaign_status",
+        "campaign_id": "camp-1791397701364",
+        "prev_status": "active",
+        "new_status": "pending"
+      },
+      "created_at": "2026-10-07T22:34:59.343Z"
+    },
+    {
+      "id": "notif-1791412495679",
+      "title": "تغییر وضعیت پویش پویش نذر فاطمیه و توزیع ارزاق نیازمندان",
+      "description": "وضعیت پویش از «completed» به «active» تغییر یافت.",
+      "type": "campaign_status",
+      "category": "admin",
+      "is_read": false,
+      "reversible": true,
+      "undone": false,
+      "undo_data": {
+        "type": "campaign_status",
+        "campaign_id": "camp-fatemiye-1403",
+        "prev_status": "completed",
+        "new_status": "active"
+      },
+      "created_at": "2026-10-07T22:34:55.679Z"
+    },
+    {
+      "id": "notif-1791411819992",
+      "title": "پرداخت موفق در پویش",
+      "description": "ییب با پرداخت ۱۰۰٬۰۰۰ تومان سهم مشارکت خود را ثبت نمود.",
+      "type": "payment",
+      "category": "site",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T22:23:39.992Z"
+    },
+    {
+      "id": "notif-1791411819992",
+      "title": "مشارکت‌کننده جدید",
+      "description": "ییب با پرداخت موفق ۱۰۰٬۰۰۰ تومان به لیست کاربران و مشارکت‌کنندگان اضافه شد.",
+      "type": "user",
+      "category": "users",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T22:23:39.992Z"
+    },
+    {
+      "id": "notif-1791398059632",
+      "title": "تغییر وضعیت پویش پویش بزرگ اطعام عید سعید غدیر خم",
+      "description": "وضعیت پویش از «active» به «completed» تغییر یافت.",
+      "type": "campaign_status",
+      "category": "admin",
+      "is_read": false,
+      "reversible": true,
+      "undone": false,
+      "undo_data": {
+        "type": "campaign_status",
+        "campaign_id": "camp-ghadir-1403",
+        "prev_status": "active",
+        "new_status": "completed"
+      },
+      "created_at": "2026-10-07T18:34:19.632Z"
+    },
+    {
+      "id": "notif-1791398057191",
+      "title": "تغییر وضعیت پویش پویش نذر فاطمیه و توزیع ارزاق نیازمندان",
+      "description": "وضعیت پویش از «active» به «completed» تغییر یافت.",
+      "type": "campaign_status",
+      "category": "admin",
+      "is_read": false,
+      "reversible": true,
+      "undone": false,
+      "undo_data": {
+        "type": "campaign_status",
+        "campaign_id": "camp-fatemiye-1403",
+        "prev_status": "active",
+        "new_status": "completed"
+      },
+      "created_at": "2026-10-07T18:34:17.191Z"
+    },
+    {
+      "id": "notif-1791397701364",
+      "title": "ایجاد پویش جدید",
+      "description": "پویش «پویش نذر آب مناطق محروم» ایجاد و منتشر شد.",
+      "type": "campaign",
+      "category": "site",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T18:28:21.364Z"
+    },
+    {
+      "id": "notif-1791397666851",
+      "title": "پرداخت موفق در پویش",
+      "description": "تست شکست پیامک با پرداخت ۵۰٬۰۰۰ تومان سهم مشارکت خود را ثبت نمود.",
+      "type": "payment",
+      "category": "site",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T18:27:46.851Z"
+    },
+    {
+      "id": "notif-1791397666850",
+      "title": "مشارکت‌کننده جدید",
+      "description": "تست شکست پیامک با پرداخت موفق ۵۰٬۰۰۰ تومان به لیست کاربران و مشارکت‌کنندگان اضافه شد.",
+      "type": "user",
+      "category": "users",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T18:27:46.850Z"
+    },
+    {
+      "id": "notif-1791397631841",
+      "title": "پرداخت موفق در پویش",
+      "description": "بهرام افشاری با پرداخت ۱۵۰٬۰۰۰ تومان سهم مشارکت خود را ثبت نمود.",
+      "type": "payment",
+      "category": "site",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T18:27:11.841Z"
+    },
+    {
+      "id": "notif-1791397631841",
+      "title": "مشارکت‌کننده جدید",
+      "description": "بهرام افشاری با پرداخت موفق ۱۵۰٬۰۰۰ تومان به لیست کاربران و مشارکت‌کنندگان اضافه شد.",
+      "type": "user",
+      "category": "users",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T18:27:11.841Z"
+    },
+    {
+      "id": "notif-1",
+      "title": "مشارکت جدید در پویش",
+      "description": "امید احمدی با ۱۰ سهم (۵۰۰,۰۰۰ تومان) به صورت گمنام در پویش اطعام غدیر مشارکت نمود.",
+      "type": "payment",
+      "category": "site",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T15:13:11.829Z"
+    },
+    {
+      "id": "notif-2",
+      "title": "مشارکت‌کننده جدید",
+      "description": "فاطمه حسینی با پرداخت ۱۰۰,۰۰۰ تومان در پویش مشارکت نمود و در لیست کاربران ثبت شد.",
+      "type": "user",
+      "category": "users",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T13:13:11.829Z"
+    },
+    {
+      "id": "notif-3",
+      "title": "تغییر وضعیت پویش نذر فاطمیه",
+      "description": "وضعیت پویش از «به زودی» به «فعال» تغییر داده شد.",
+      "type": "campaign_status",
+      "category": "admin",
+      "is_read": true,
+      "reversible": true,
+      "undone": false,
+      "undo_data": {
+        "type": "campaign_status",
+        "campaign_id": "camp-fatemiye-1403",
+        "prev_status": "pending",
+        "new_status": "active"
+      },
+      "created_at": "2026-10-06T18:13:11.829Z"
+    },
+    {
+      "id": "notif-4",
+      "title": "بروزرسانی قوانین و مقررات",
+      "description": "متن قوانین و مقررات پویش توسط مدیریت ذخیره و منتشر شد.",
+      "type": "terms_update",
+      "category": "admin",
+      "is_read": false,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-07T10:13:11.829Z"
+    },
+    {
+      "id": "notif-5",
+      "title": "عضویت مشارکت‌کننده جدید",
+      "description": "محمد صادقی با ثبت ۴ سهم به جمع همراهان پویش پیوست.",
+      "type": "user",
+      "category": "users",
+      "is_read": true,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-05T18:13:11.829Z"
+    },
+    {
+      "id": "notif-6",
+      "title": "واریز آنلاین از درگاه شاپرک",
+      "description": "تراکنش TXN-98432104 در درگاه آنلاین با موفقیت تایید شد.",
+      "type": "payment",
+      "category": "site",
+      "is_read": true,
+      "reversible": false,
+      "undone": false,
+      "undo_data": null,
+      "created_at": "2026-10-05T18:13:11.829Z"
+    }
+  ],
+  "audit_logs": [
+    {
+      "id": "log-1791412871027-847",
+      "action_type": "تغییر وضعیت پویش",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "پویش بزرگ اطعام عید سعید غدیر خم",
+      "description": "تغییر از inactive به active",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:41:11.027Z"
+    },
+    {
+      "id": "log-1791412865763-382",
+      "action_type": "تغییر وضعیت پویش",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "پویش نذر فاطمیه و توزیع ارزاق نیازمندان",
+      "description": "تغییر از completed به active",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:41:05.763Z"
+    },
+    {
+      "id": "log-1791412499343-889",
+      "action_type": "تغییر وضعیت پویش",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "پویش نذر آب مناطق محروم",
+      "description": "تغییر از active به pending",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:34:59.343Z"
+    },
+    {
+      "id": "log-1791412495679-765",
+      "action_type": "تغییر وضعیت پویش",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "پویش نذر فاطمیه و توزیع ارزاق نیازمندان",
+      "description": "تغییر از completed به active",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:34:55.679Z"
+    },
+    {
+      "id": "log-1791412479968-566",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:34:39.968Z"
+    },
+    {
+      "id": "log-1791412103210-381",
+      "action_type": "تنظیمات درگاه",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "درگاه پرداخت",
+      "description": "بروزرسانی تنظیمات درگاه بانکی",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:28:23.210Z"
+    },
+    {
+      "id": "log-1791412079968-126",
+      "action_type": "تنظیمات درگاه",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "درگاه پرداخت",
+      "description": "بروزرسانی تنظیمات درگاه بانکی",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:27:59.968Z"
+    },
+    {
+      "id": "log-1791412052656-995",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:27:32.656Z"
+    },
+    {
+      "id": "log-1791411819992-235",
+      "action_type": "پرداخت موفق",
+      "actor": "ییب",
+      "target": "POY-248999",
+      "description": "واریز موفق مبلغ ۱۰۰٬۰۰۰ تومان (رهگیری: POY-248999)",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:23:39.992Z"
+    },
+    {
+      "id": "log-1791411819992-748",
+      "action_type": "ثبت کاربر جدید",
+      "actor": "سیستم",
+      "target": "ییب",
+      "description": "عضویت پس از پرداخت موفق (۱۰۰٬۰۰۰ تومان)",
+      "status": "موفق",
+      "created_at": "2026-10-07T22:23:39.992Z"
+    },
+    {
+      "id": "log-1791399500899-843",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:58:20.899Z"
+    },
+    {
+      "id": "log-1791398578127-123",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:42:58.127Z"
+    },
+    {
+      "id": "log-1791398204709-335",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:36:44.709Z"
+    },
+    {
+      "id": "log-1791398059632-82",
+      "action_type": "تغییر وضعیت پویش",
+      "actor": "admin@gmail.com",
+      "target": "پویش بزرگ اطعام عید سعید غدیر خم",
+      "description": "تغییر از active به completed",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:34:19.632Z"
+    },
+    {
+      "id": "log-1791398057191-673",
+      "action_type": "تغییر وضعیت پویش",
+      "actor": "admin@gmail.com",
+      "target": "پویش نذر فاطمیه و توزیع ارزاق نیازمندان",
+      "description": "تغییر از active به completed",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:34:17.191Z"
+    },
+    {
+      "id": "log-1791398040648-51",
+      "action_type": "ویرایش پویش",
+      "actor": "admin@gmail.com",
+      "target": "پویش نذر آب مناطق محروم",
+      "description": "ویرایش اطلاعات پویش",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:34:00.648Z"
+    },
+    {
+      "id": "log-1791398014657-364",
+      "action_type": "ویرایش پویش",
+      "actor": "admin@gmail.com",
+      "target": "پویش نذر آب مناطق محروم",
+      "description": "ویرایش اطلاعات پویش",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:33:34.657Z"
+    },
+    {
+      "id": "log-1791398014384-551",
+      "action_type": "آپلود تصویر پویش",
+      "actor": "admin@gmail.com",
+      "target": "camp_1791398014378_n8m3po.png",
+      "description": "آپلود تصویر پویش با اندازه 200.7 کیلوبایت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:33:34.384Z"
+    },
+    {
+      "id": "log-1791397950305-799",
+      "action_type": "ورود مدیر",
+      "actor": "admin@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:32:30.305Z"
+    },
+    {
+      "id": "log-1791397923200-390",
+      "action_type": "ایجاد مدیر جدید",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "admin@gmail.com",
+      "description": "ایجاد مدیر «حسین» با 1 دسترسی",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:32:03.200Z"
+    },
+    {
+      "id": "log-1791397826873-609",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:30:26.873Z"
+    },
+    {
+      "id": "log-1791397701364-172",
+      "action_type": "ایجاد پویش",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "پویش نذر آب مناطق محروم",
+      "description": "ثبت و انتشار پویش جدید",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:28:21.364Z"
+    },
+    {
+      "id": "log-1791397690249-46",
+      "action_type": "آپلود تصویر پویش",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "camp_1791397690246_3vimfo.png",
+      "description": "آپلود تصویر پویش با اندازه 0.1 کیلوبایت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:28:10.249Z"
+    },
+    {
+      "id": "log-1791397675611-587",
+      "action_type": "تلاش مجدد پیامک",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "09121234567",
+      "description": "تلاش مجدد ارسال پیامک تشکر (موفق)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:55.611Z"
+    },
+    {
+      "id": "log-1791397675589-644",
+      "action_type": "تنظیمات پنل پیامک",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "پنل پیامک",
+      "description": "بروزرسانی تنظیمات پیامک (ارائه‌دهنده: simulator، وضعیت: فعال)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:55.589Z"
+    },
+    {
+      "id": "log-1791397666851-967",
+      "action_type": "پرداخت موفق",
+      "actor": "تست شکست پیامک",
+      "target": "POY-673948",
+      "description": "واریز موفق مبلغ ۵۰٬۰۰۰ تومان (رهگیری: POY-673948)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:46.851Z"
+    },
+    {
+      "id": "log-1791397666850-928",
+      "action_type": "ثبت کاربر جدید",
+      "actor": "سیستم",
+      "target": "تست شکست پیامک",
+      "description": "عضویت پس از پرداخت موفق (۵۰٬۰۰۰ تومان)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:46.850Z"
+    },
+    {
+      "id": "log-1791397660768-721",
+      "action_type": "تنظیمات پنل پیامک",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "پنل پیامک",
+      "description": "بروزرسانی تنظیمات پیامک (ارائه‌دهنده: sms_ir، وضعیت: فعال)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:40.768Z"
+    },
+    {
+      "id": "log-1791397650019-169",
+      "action_type": "تلاش مجدد پیامک",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "09123334455",
+      "description": "تلاش مجدد ارسال پیامک تشکر (موفق)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:30.019Z"
+    },
+    {
+      "id": "log-1791397631841-754",
+      "action_type": "پرداخت موفق",
+      "actor": "بهرام افشاری",
+      "target": "POY-378383",
+      "description": "واریز موفق مبلغ ۱۵۰٬۰۰۰ تومان (رهگیری: POY-378383)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:11.841Z"
+    },
+    {
+      "id": "log-1791397631841-133",
+      "action_type": "ثبت کاربر جدید",
+      "actor": "سیستم",
+      "target": "بهرام افشاری",
+      "description": "عضویت پس از پرداخت موفق (۱۵۰٬۰۰۰ تومان)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:11.841Z"
+    },
+    {
+      "id": "log-1791397623359-547",
+      "action_type": "ارسال پیامک تست",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "09129998877",
+      "description": "ارسال پیامک آزمایشی (موفق)",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:03.359Z"
+    },
+    {
+      "id": "log-1791397623275-378",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:27:03.275Z"
+    },
+    {
+      "id": "log-1791397610086-872",
+      "action_type": "حذف حساب مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "ali.rezaei@example.com",
+      "description": "حذف مدیر «علی رضایی» از سیستم",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:26:50.086Z"
+    },
+    {
+      "id": "log-1791397605393-621",
+      "action_type": "ویرایش مشخصات مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "ali.rezaei@example.com",
+      "description": "بروزرسانی مشخصات و سطح دسترسی مدیر ali.rezaei@example.com",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:26:45.393Z"
+    },
+    {
+      "id": "log-1791397592402-957",
+      "action_type": "ویرایش مشخصات مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "ali.rezaei@example.com",
+      "description": "بروزرسانی مشخصات و سطح دسترسی مدیر ali.rezaei@example.com",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:26:32.402Z"
+    },
+    {
+      "id": "log-1791397535438-879",
+      "action_type": "ورود مدیر",
+      "actor": "ali.rezaei@example.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:25:35.438Z"
+    },
+    {
+      "id": "log-1791397531112-478",
+      "action_type": "ایجاد مدیر جدید",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "ali.rezaei@example.com",
+      "description": "ایجاد مدیر «علی رضایی» با 2 دسترسی",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:25:31.112Z"
+    },
+    {
+      "id": "log-1791397526622-346",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:25:26.622Z"
+    },
+    {
+      "id": "log-1791396922043-856",
+      "action_type": "ورود مدیر",
+      "actor": "Matinshariati1404@gmail.com",
+      "target": "سیستم",
+      "description": "ورود موفق به پنل مدیریت",
+      "status": "موفق",
+      "created_at": "2026-10-07T18:15:22.043Z"
+    },
+    {
+      "id": "log-1",
+      "action_type": "تغییر وضعیت پویش",
+      "actor": "admin@example.com",
+      "target": "پویش نذر فاطمیه",
+      "description": "تغییر وضعیت پویش از به زودی به فعال",
+      "status": "موفق",
+      "created_at": "2026-10-06T18:13:11.829Z"
+    },
+    {
+      "id": "log-2",
+      "action_type": "تأیید کاربر",
+      "actor": "admin@example.com",
+      "target": "محمد صادقی",
+      "description": "تأیید نمایش مشارکت در سایت عمومی",
+      "status": "موفق",
+      "created_at": "2026-10-05T18:13:11.829Z"
+    },
+    {
+      "id": "log-3",
+      "action_type": "پرداخت موفق",
+      "actor": "درگاه شاپرک",
+      "target": "POY-782194",
+      "description": "ثبت واریز موفق به مبلغ ۲۰۰,۰۰۰ تومان",
+      "status": "موفق",
+      "created_at": "2026-10-05T18:13:11.829Z"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "tkt-seed-1",
+      "name": "امید احمدی",
+      "phone": "09198765432",
+      "subject": "پیگیری ثبت سهم نذر",
+      "status": "answered",
+      "priority": "medium",
+      "created_at": "2026-10-05T18:13:11.829Z",
+      "updated_at": "2026-10-06T18:13:11.829Z"
+    }
+  ],
+  "ticket_messages": [
+    {
+      "id": "msg-seed-1",
+      "ticket_id": "tkt-seed-1",
+      "sender_type": "user",
+      "sender_name": "امید احمدی",
+      "message": "سلام، من واریز انجام دادم اما در لیست اسامی نمایش داده نشدم.",
+      "created_at": "2026-10-05T18:13:11.829Z"
+    },
+    {
+      "id": "msg-seed-2",
+      "ticket_id": "tkt-seed-1",
+      "sender_type": "admin",
+      "sender_name": "مدیریت سامانه",
+      "message": "سلام وقت بخیر، مشارکت شما به صورت گمنام ثبت شده و در آمار کل منظور گردیده است.",
+      "created_at": "2026-10-06T18:13:11.829Z"
+    }
+  ],
+  "settings": {
+    "homepage_notice_text": "نذر و مشارکت‌های شما به صورت مستقیم و شفاف در این پویش ثبت شده و امکان رهگیری لحظه‌ای با کد پیگیری اختصاصی فراهم است.",
+    "footer_copyright_text": "© ۱۴۰۵ تمامی حقوق این وبسایت محفوظ است",
+    "system_version_text": "V1.1",
+    "id": "default",
+    "active_gateway": "test_gateway",
+    "is_active": true,
+    "sandbox": true,
+    "merchant_id": "",
+    "api_key": "",
+    "terminal_id": "",
+    "terms_content": "<h4>مقدمه و اهداف پویش</h4>\n<p>این سامانه جهت تسهیل در جمع‌آوری نذورات و مشارکت‌های مردمی به صورت شفاف، سهم‌بندی شده و دقیق راه‌اندازی شده است. تمامی مبالغ واریزی منحصراً صرف اهداف اعلام‌شده در عنوان و توضیحات پویش می‌گردد.</p>\n<h4>نکات مهم واریز وجه</h4>\n<ul>\n  <li>واریز وجه صرفاً از طریق شبکه رسمی شاپرک و درگاه‌های مجاز بانکی انجام می‌پذیرد.</li>\n  <li>پس از تکمیل پرداخت، کد رهگیری یکتا نمایش داده شده و سهم شما در سامانه ثبت می‌شود.</li>\n  <li>در صورت تمایل می‌توانید گزینه «میخواهم گمنام باشم» را فعال نمایید؛ در این حالت نام واقعی شما در امور مالی و سیستمی ثبت شده اما در سایت عمومی عنوان «گمنام» درج می‌گردد.</li>\n  <li>در صورت بروز هرگونه قطعی شبکه، وجه کسر شده ظرف ۷۲ ساعت توسط شاپرک عودت داده می‌شود.</li>\n</ul>\n<div style=\"background: #f8fafc; border: 1px dashed #cbd5e1; border-radius: 10px; padding: 14px 16px; margin-top: 18px; margin-bottom: 18px; font-size: 0.85rem; color: #64748b;\">\n  <div style=\"font-weight: 700; color: #334155; margin-bottom: 4px;\">پشتیبانی و ارتباط با مسئول پویش</div>\n  <div>شماره تماس ثبت‌شده در پویش آماده پاسخگویی به سوالات مشارکت‌کنندگان محترم است.</div>\n</div>"
+  },
+  "admins": [
+    {
+      "id": 1,
+      "email": "Matinshariati1404@gmail.com",
+      "name": "مدیر ارشد سامانه",
+      "password_hash": "$2b$10$R17jTZEd1v/ylA9ChKe2h.WOUSnIW.X/pXt4LsDwJJ.h9n/UQL3Xu",
+      "is_active": true,
+      "is_super_admin": true,
+      "permissions": [
+        "dashboard",
+        "campaigns",
+        "payments",
+        "users",
+        "notifications",
+        "logs",
+        "settings",
+        "terms",
+        "tickets",
+        "sms",
+        "admins"
+      ],
+      "created_at": "2026-09-07T18:13:11.948Z",
+      "updated_at": "2026-10-07T18:13:11.948Z"
+    },
+    {
+      "id": 1791397923097,
+      "email": "admin@gmail.com",
+      "name": "حسین",
+      "password_hash": "$2b$10$i.wglW7kNxWxEeINzUcv1u1/HMlcSVm04Fxw4L4cfi64Yqe21P1XG",
+      "is_active": true,
+      "is_super_admin": false,
+      "permissions": [
+        "campaigns"
+      ],
+      "created_at": "2026-10-07T18:32:03.200Z",
+      "updated_at": "2026-10-07T18:32:03.200Z"
+    }
+  ],
+  "sms_settings": {
+    "is_enabled": true,
+    "active_provider": "simulator",
+    "api_key": "invalid_key_12345",
+    "secret_key": "",
+    "sender_number": "300077",
+    "template_id": "",
+    "thank_you_template": "مشارکت‌کننده گرامی {user_name}، نذر و همراهی شما در «{campaign_name}» به مبلغ {amount} با موفقیت ثبت شد.\nکد رهگیری: {tracking_id}\nتاریخ: {date} ساعت {time}\nاجرتان با صاحب پویش."
+  },
+  "sms_logs": [
+    {
+      "id": "sms-1791411819998-508",
+      "payment_id": "pay-1791411816254",
+      "tracking_code": "POY-248999",
+      "phone": "09114995930",
+      "message": "مشارکت‌کننده گرامی ییب، نذر و همراهی شما در «پویش نذر آب مناطق محروم» به مبلغ ۱۰۰٬۰۰۰ تومان با موفقیت ثبت شد.\nکد رهگیری: POY-248999\nتاریخ: ۱۴۰۵/۷/۱۵ ساعت ۲۲:۲۳\nاجرتان با صاحب پویش.",
+      "provider": "simulator",
+      "status": "sent",
+      "error": null,
+      "created_at": "2026-10-07T22:23:39.993Z"
+    },
+    {
+      "id": "sms-1791397668349-758",
+      "payment_id": "pay-1791397660792",
+      "tracking_code": "POY-673948",
+      "phone": "09121234567",
+      "message": "مشارکت‌کننده گرامی تست شکست پیامک، نذر و همراهی شما در «پویش بزرگ اطعام عید سعید غدیر خم» به مبلغ ۵۰٬۰۰۰ تومان با موفقیت ثبت شد.\nکد رهگیری: POY-673948\nتاریخ: ۱۴۰۵/۷/۱۵ ساعت ۱۸:۲۷\nاجرتان با صاحب پویش.",
+      "provider": "sms_ir",
+      "status": "sent",
+      "error": null,
+      "created_at": "2026-10-07T18:27:46.851Z",
+      "retry_at": "2026-10-07T18:27:55.611Z"
+    },
+    {
+      "id": "sms-1791397631843-757",
+      "payment_id": "pay-1791397628070",
+      "tracking_code": "POY-378383",
+      "phone": "09123334455",
+      "message": "مشارکت‌کننده گرامی بهرام افشاری، نذر و همراهی شما در «پویش بزرگ اطعام عید سعید غدیر خم» به مبلغ ۱۵۰٬۰۰۰ تومان با موفقیت ثبت شد.\nکد رهگیری: POY-378383\nتاریخ: ۱۴۰۵/۷/۱۵ ساعت ۱۸:۲۷\nاجرتان با صاحب پویش.",
+      "provider": "simulator",
+      "status": "sent",
+      "error": null,
+      "created_at": "2026-10-07T18:27:11.842Z",
+      "retry_at": "2026-10-07T18:27:30.019Z"
+    },
+    {
+      "id": "sms-test-1791397623359",
+      "phone": "09129998877",
+      "message": "تست ارسال پیامک از سامانه پویش",
+      "provider": "simulator",
+      "status": "sent",
+      "error": null,
+      "created_at": "2026-10-07T18:27:03.359Z"
+    },
+    {
+      "id": "sms-init-1",
+      "payment_id": "pay-seed-1",
+      "tracking_code": "POY-782194",
+      "phone": "09121112233",
+      "message": "مشارکت‌کننده گرامی محمد صادقی، نذر و همراهی شما در «پویش بزرگ اطعام عید سعید غدیر خم» به مبلغ ۲۰۰,۰۰۰ تومان با موفقیت ثبت شد.\nکد رهگیری: POY-782194",
+      "provider": "simulator",
+      "status": "sent",
+      "error": null,
+      "created_at": "2026-10-05T18:13:11.948Z"
+    }
+  ]
+}
